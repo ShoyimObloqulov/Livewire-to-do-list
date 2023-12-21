@@ -11,6 +11,8 @@
     @livewireStyles
 </head>
 <body>
+
+    <!--  Livewire files update and include once    -->
     <livewire:comments />
     @livewireScripts
 </body>
